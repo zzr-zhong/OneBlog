@@ -181,3 +181,7 @@ ps: 虽然我知道，大部分人都是来了**直接下载源代码**后就潇
 # 开源协议
 
 [![license](https://img.shields.io/badge/license-GPL%20v3-yellow.svg)](https://gitee.com/yadong.zhang/DBlog/blob/master/LICENSE)
+
+# 蓝鲸测试
+
+该修改为测试蓝鲸cicdkit的commit功能所使用，请知悉。
